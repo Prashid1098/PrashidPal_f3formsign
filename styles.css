@@ -68,6 +68,15 @@
     border: 1px solid white;
     padding: 1vh 2.5vw;
 }
+.Logout
+{
+    color: #000000;
+    background-color: white;
+    font-size: 24px;
+    font-weight: 300;
+    border: 1px solid white;
+    padding: 1vh 2.5vw;
+}
 .f-status
 {
     font-size: 24px;
